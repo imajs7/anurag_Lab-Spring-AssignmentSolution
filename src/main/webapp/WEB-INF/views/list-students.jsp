@@ -31,7 +31,7 @@
         	<div class="col-6 py-3">
         	
         		<a href="/StudentManagement/students/showFormForAdd"
-                class="btn btn-primary btn-sm">Add Book</a> 
+                class="btn btn-primary btn-sm">Add Student</a> 
         	
         	</div>
 
